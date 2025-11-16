@@ -1,4 +1,4 @@
-# 💳 Pricing Cards – Planos de Hospedagem
+# 💳 Pricing Cards 
 
 ![Preview do Projeto](https://i.postimg.cc/7LykFKkc/pricing-sem-borda.png)
 
